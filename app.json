@@ -5,7 +5,7 @@
   "env": {
     "ProxySite": {
       "description": "反代的网站(伪装网站)，例如：mirror.umd.edu ",
-      "value": "www.bing.com"
+      "value": "mirror.umd.edu"
     },
 
     "Vless_UUID": {
